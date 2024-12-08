@@ -1,0 +1,81 @@
+{
+  "sheets": [
+    {
+      "name": "Student Info",
+      "data": [
+        ["Field", "Value"],
+        ["Student Name", "Alex Johnson"],
+        ["Student ID", "2024-001"],
+        ["Grade", "10"],
+        ["Academic Year", "2023-2024"],
+        ["Term", "Second Term"],
+        ["Section", "A"]
+      ]
+    },
+    {
+      "name": "Subjects",
+      "data": [
+        ["Subject", "Teacher", "Numerical Grade", "Letter Grade", "Credit Hours", "Status", "Comments"],
+        ["Mathematics", "Mr. John Smith", 92, "A", 4, "Pass", "Alex shows exceptional aptitude in mathematics and consistently performs well."],
+        ["Science", "Ms. Sarah Williams", 88, "B+", 4, "Pass", "Shows great enthusiasm in practical work and experiments."],
+        ["English", "Mrs. Emily Davis", 85, "B", 3, "Pass", "Demonstrates creativity in writing and strong verbal communication skills."]
+      ]
+    },
+    {
+      "name": "Attendance",
+      "data": [
+        ["Metric", "Value"],
+        ["Total Days", 120],
+        ["Present", 115],
+        ["Absent", 3],
+        ["Tardy", 2],
+        ["Attendance Rate", 95.8]
+      ]
+    },
+    {
+      "name": "Conduct",
+      "data": [
+        ["Field", "Value"],
+        ["Rating", "Excellent"],
+        ["Comments", "Alex demonstrates exemplary behavior and is always willing to help peers. Shows leadership qualities and maintains a positive attitude."]
+      ]
+    },
+    {
+      "name": "Activities",
+      "data": [
+        ["Activity", "Role", "Achievement"],
+        ["Mathematics Club", "President", "Led team to district mathematics olympiad victory"],
+        ["Science Fair", "Participant", "Second place in physics project category"],
+        ["Debate Club", "Member", "Participated in inter-school debate competition"]
+      ]
+    },
+    {
+      "name": "Achievements",
+      "data": [
+        ["Achievement"],
+        ["Mathematics Olympiad District Champion"],
+        ["Science Fair Runner-up"],
+        ["Perfect Attendance Award"]
+      ]
+    },
+    {
+      "name": "Improvements",
+      "data": [
+        ["Category", "Point"],
+        ["Academic", "Focus on time management in exams"],
+        ["Academic", "Strengthen grammar skills"],
+        ["Academic", "Practice more complex mathematical problems"],
+        ["Behavioral", "Continue maintaining excellent conduct"],
+        ["Behavioral", "Keep up the positive attitude"]
+      ]
+    },
+    {
+      "name": "Remarks",
+      "data": [
+        ["Role", "Comments"],
+        ["Principal", "Alex is an exemplary student who demonstrates strong academic performance and leadership qualities. Keep up the excellent work!"],
+        ["Teacher", "It has been a pleasure to see Alex's growth this term. Shows great potential and consistently strives for excellence."]
+      ]
+    }
+  ]
+}
